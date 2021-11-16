@@ -1,5 +1,7 @@
-#Version
+# Version
 updatev002111421
+
+-ประสิทธิภาพ
 
 # Remote Desktop Project (For Users)
    Remote Desktop Project (For Users) เป็นโปรเจกต์ที่สามารถทำให้ใช้งานcmd(command prompt)เพื่อควบคุมคอมพิวเตอร์จากระยะไกลได้
