@@ -1,3 +1,6 @@
+#Version
+updatev002111421
+
 # Remote Desktop Project (For Users)
    Remote Desktop Project (For Users) เป็นโปรเจกต์ที่สามารถทำให้ใช้งานcmd(command prompt)เพื่อควบคุมคอมพิวเตอร์จากระยะไกลได้
 โดยเครื่องคอมพิวเตอร์เครื่องนั้นจะทำหน้าที่เป็นเซิร์ฟเวอร์และเราสามารถใช้งานได้โดยการเข้าเว็บเบราว์เซอร์และพิมพ์ที่อยู่IP addressและตามด้วยsubdirectory
