@@ -1,13 +1,28 @@
 # Remote Desktop Project (For Users)
-วิธีการใช้งาน
+   Remote Desktop Project (For Users) เป็นโปรเจกต์ที่สามารถทำให้ใช้งานcmd(command prompt)เพื่อควบคุมคอมพิวเตอร์จากระยะไกลได้
+โดยเครื่องคอมพิวเตอร์เครื่องนั้นจะทำหน้าที่เป็นเซิร์ฟเวอร์และเราสามารถใช้งานได้โดยการเข้าเว็บเบราว์เซอร์และพิมพ์ที่อยู่IP addressและตามด้วยsubdirectory
+### วิธีการใช้งานที่ 1
 1. ติดตั้ง XAMPP (https://www.apachefriends.org/index.html)
 2. ติดตั้งไฟล์ และทำการแตกไฟล์ไปที่ \xampp\htdocs
 4. เปิด XAMPP และกดปุ่ม start ของ apache
-5. เปิด เบราว์เซอร์ และพิมพ์ localhost:80/Remote-Desktop-Pj-For-Users-main(ชื่อโฟลเดอร์) (http://localhost:80/Remote-Desktop-Pj-For-Users-main)
+5. เปิด เบราว์เซอร์ และพิมพ์ localhost:80/RD-Pj-For-Developers-main(ชื่อโฟลเดอร์) (http://localhost:80/RD-Pj-For-Developers-main)
 6. ตรวจสอบว่าสามารถใช้งานได้หรือไม่โดยพิมพ์ `@cmd>text(grave accent symbol)start www.github.com(grave accent symbol)`
+   #### (grave accent symbol) = `
+   
+### วิธีการใช้งานที่ 2
+1. ติดตั้ง XAMPP (https://www.apachefriends.org/index.html)
+2. เปิด cmd(command prompt) โดยการกดที่ปุ่มwindowsและพิมพ์cmd
+3. จากนั้นให้เข้าไปที่ \xampp\htdocs โดยใช้คำสั่ง cd
+4. ติดตั้งไฟล์ โดยการใช้ทำสั่ง `git clone`
+5. เปิด XAMPP และกดปุ่ม start ของ apache
+6. เปิด เบราว์เซอร์ และพิมพ์ localhost:80/RD-Pj-For-Developers-main(ชื่อโฟลเดอร์) (http://localhost:80/RD-Pj-For-Developers-main)
+7. ตรวจสอบว่าสามารถใช้งานได้หรือไม่โดยพิมพ์ `@cmd>text(grave accent symbol)start www.github.com(grave accent symbol)`
    #### (grave accent symbol) = `
 
 # เพิ่มเติม
+สำหลับการใช้งานทั่วไป(ติดตั้งเพื่อใช่งานอย่างเดียว หรือ ไม่มีการพัฒนาต่อ)สามารถลบไฟล์ที่ไม่ได้ใช้งานออกไปได้
+   *ไฟล์ที่มีการใช้งาน(ห้ามลบ) action.php index.html main.exe และ ooc_website.txt*
+
 สามารถเปลี่ยนชื่อโฟลเดอร์ได้
 
 #### คำแนะนำ
