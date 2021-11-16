@@ -1,0 +1,13 @@
+Format for writing commands
+
+!-- Components --!
+
+@ M >  F `   V    `
+
+M = Mode
+F = Function
+V = value
+!----------------!
+
+CMD:
+@cmd>text`commands`
